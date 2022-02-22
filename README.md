@@ -1,6 +1,6 @@
 # FlattingApp
 
-#Abstract
+# Abstract
 The task for this assignment is to design an application for successfully
 managing, coordinating, and communicating within flats. Our group has jointly
 made decisions for design in accordance with the description and requirements
@@ -13,7 +13,7 @@ some of the pre-formed design alternatives and highlights their respective
 strengths and weaknesses. Also, Preliminary Design makes a good
 demonstration of the requirements that are provided by FlatMate Ltd.
 
-#Introduction
+# Introduction
 The experience of living in a flat with someone could be stressful, and people in
 a flat may face a myriad of troubles that involve communicating with each other
 
